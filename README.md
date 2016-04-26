@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+
 
 
 Alrighty, this is the first script in Github.
